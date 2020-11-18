@@ -3,7 +3,7 @@
 
 load('api_math.js');
 
-let Adafruit_BME280 = {
+let MHZ19 = {
   // Error codes
   RES_FAIL: -100.0,
 
